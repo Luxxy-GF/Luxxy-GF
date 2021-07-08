@@ -24,8 +24,8 @@
 
 - <img src="https://cdn.discordapp.com/emojis/752920935077511178.png?v=1" width="15px"> I have made many discord bots.
 
-<a href="https://discord.com/users/720857179313274931">
-<img height="80px" src="https://discord.c99.nl/widget/theme-3/720857179313274931.png" />
+<a href="https://discord.com/users/582012181638414357">
+<img height="80px" src="https://discord.c99.nl/widget/theme-4/582012181638414357.png" />
 </a>
 
 <a href="https://discord.com/users/720857179313274931">
