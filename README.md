@@ -16,7 +16,7 @@
 <a href="">
   <img align="left" alt="Steam" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
 
-![Profile Visits](https://komarev.com/ghpvc/?username=Dinav69&color=yellow&label=Profile-Visits&width=26px)
+![Profile Visits](https://komarev.com/ghpvc/?username=Luxxy-GF&color=yellow&label=Profile-Visits&width=26px)
 
 </a>
 
