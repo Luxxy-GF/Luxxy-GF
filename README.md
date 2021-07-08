@@ -7,19 +7,13 @@
 <a href="https://discord.gg/single">
   <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 
-<a href="https://twitter.com/EkanshLive">
+<a href="https://twitter.com/x_snowyyy_x">
   <img align="left" alt="Twitter" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 
-<a href="https://www.reddit.com/u/LiveEkansh3392">
-  <img align="left" alt="Reddit" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-
-<a href="https://open.spotify.com/user/i5fzbt6g2q90wojkesnqx0gqv?si=06e226bd867c45ca">
+<a href="https://open.spotify.com/user/goodgame506">
   <img align="left" alt="Spotify" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-
-<a href="https://www.youtube.com/channel/UCS6t-VigVblKcHhjdtBnE4w">
-  <img align="left" alt="Youtube" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-
-<a href="https://steamcommunity.com/profiles/76561199075562084">
+  
+<a href="">
   <img align="left" alt="Steam" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=Dinav69&color=yellow&label=Profile-Visits&width=26px)
