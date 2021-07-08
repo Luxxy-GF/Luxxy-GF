@@ -1,11 +1,10 @@
-#  <img src="https://cdn.discordapp.com/emojis/840660947596214302.gif?v=1" width="30px"> Hey there, I'm [Ekansh](https://www.youtube.com/watch?v=dQw4w9WgXcQ) <img src="https://cdn.discordapp.com/emojis/840660949371453520.gif?v=1" width="30px">
+#  <img src="https://cdn.discordapp.com/emojis/840660947596214302.gif?v=1" width="30px"> Hey there, I'm [Luxxy-GF]<img src="https://cdn.discordapp.com/emojis/840660949371453520.gif?v=1" width="30px">
 
 ## <img src="https://cdn.discordapp.com/emojis/689204979419971689.gif?v=1" width="30px"> About me -
-[He/Him] ♡
-Student •  Bot Dev •  Mac and Cheese enthusiast and Professional fun haver.
-Occasionally exists~  („• ֊ •„)
+[she/her] ♡
+  Bot Dev 
 
-<a href="https://dsc.gg/inb">
+<a href="https://discord.gg/single">
   <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 
 <a href="https://twitter.com/EkanshLive">
