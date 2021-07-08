@@ -64,7 +64,7 @@ Occasionally exists~  („• ֊ •„)
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-![Ekansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LiveEkansh&show_icons=true&theme=react)
+![Ekansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luxxy-GF&show_icons=true&theme=react)
   </details>
 
 <details>
