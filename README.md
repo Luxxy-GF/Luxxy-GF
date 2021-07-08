@@ -59,6 +59,6 @@
 
 <details>
   <summary>:zap: Languages </summary>
-<img src="https://cdn.discordapp.com/emojis/840660945877729320.gif?v=1" width="20px"> I mostly use Javascript to create bots but sometimes i use html or css for websites. I code on VSCode and Repl.it!
+<img src="https://cdn.discordapp.com/emojis/840660945877729320.gif?v=1" width="20px"> I mostly use Javascript to create bots 
   </details>
 </details
