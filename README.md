@@ -49,7 +49,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 committed in [LiveEkansh/Superb-bots](https://github.com/LiveEkansh/Superb-Bots)
+1. 🎉 committed in [Corex](https://github.com/CoreX-Developement/CoreX)
 <!--END_SECTION:activity-->
 
 </details>
