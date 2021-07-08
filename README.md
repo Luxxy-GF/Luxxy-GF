@@ -28,10 +28,6 @@
 <img height="80px" src="https://discord.c99.nl/widget/theme-2/582012181638414357.png" />
 </a>
 
-<a href="https://discord.com/users/720857179313274931">
-<img height="400px"  src="https://thumbs.gfycat.com/AnxiousMajorBellsnake-size_restricted.gif" />
-</a>
-
 
 
 ## Spotify Playing <img src="https://cdn.discordapp.com/emojis/574830750180966400.gif?v=1" width="20px">
