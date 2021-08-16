@@ -24,9 +24,7 @@
 
 - <img src="https://cdn.discordapp.com/emojis/752920935077511178.png?v=1" width="15px"> I have made many discord bots.
 
-<a href="https://discord.com/users/582012181638414357">
-<img height="80px" src="https://discord.c99.nl/widget/theme-2/582012181638414357.png" />
-</a>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/582012181638414357)](https://discord.com/users/582012181638414357)
 
 
 
