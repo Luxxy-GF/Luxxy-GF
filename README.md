@@ -3,6 +3,8 @@
 ## <img src="https://cdn.discordapp.com/emojis/689204979419971689.gif?v=1" width="30px"> About me -
 [she/her] ♡
   Bot Dev 
+  
+ <img src="https://media.discordapp.net/attachments/594319330976727060/878049210874859560/loki_luxxy.gif">
 
 <a href="https://discord.gg/single">
   <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
