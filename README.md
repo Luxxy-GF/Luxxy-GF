@@ -2,7 +2,7 @@
 
 ## <img src="https://cdn.discordapp.com/emojis/689204979419971689.gif?v=1" width="30px"> About me -
 [she/her] ♡
-  Bot Dev 
+  Bot Dev | Web Dev
   
  <img src="https://media.discordapp.net/attachments/594319330976727060/878049210874859560/loki_luxxy.gif">
 
